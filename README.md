@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, I'm Junior 👋 🤟 💻
 
+ I am from Venezuela v🇪 and I am 24 years old.
+   I am studying to be a frontend developer and here are my repositories.
+   "Controlling complexity is the essence of programming"😆
+   
+   Contact : <a href="mailto:lopezjunior1996@gmail.com" target="_blank"> lopezjunior1996@gmail.com</a> ✉️
 <!--
 **juniorjesus/juniorjesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
