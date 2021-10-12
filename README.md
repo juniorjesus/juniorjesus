@@ -2,6 +2,7 @@
 
  I am from Venezuela v🇪 and I am 24 years old.
    I am studying to be a frontend developer and here are my repositories.
+   Geek⚡ 
    "Controlling complexity is the essence of programming"😆
    
    Contact : <a href="mailto:lopezjunior1996@gmail.com" target="_blank"> lopezjunior1996@gmail.com</a> ✉️
