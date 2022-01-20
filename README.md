@@ -5,7 +5,7 @@
    Geek⚡ 
    "Controlling complexity is the essence of programming"😆
    
-   Contact : <a href="mailto:lopezjunior1996@gmail.com" target="_blank"> lopezjunior1996@gmail.com</a> ✉️
+<!--    Contact : <a href="mailto:lopezjunior1996@gmail.com" target="_blank"> lopezjunior1996@gmail.com</a> ✉️ -->
    📚 Frontend Developer
 
 <div align="center">
